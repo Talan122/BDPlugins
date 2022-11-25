@@ -1,12 +1,13 @@
 /**
  * @name CustomFonts
  * @author Talan122
- * @id 267333357874970624
- * @version 0.0.3
+ * @authorId 267333357874970624
+ * @version 1.0.0
  * @description Allows you to change the default Discord font relatively easily.
+ * @source https://github.com/Talan122/BDPlugins/tree/main/plugins/CustomFonts
  */
 
-const settings = {
+ const settings = {
     fontLink: "",
     localyInstalled: true,
     fontName: "Comic Sans MS",
